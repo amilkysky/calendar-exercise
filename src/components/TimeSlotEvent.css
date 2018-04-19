@@ -4,6 +4,7 @@
  */
 .time-slot-event {
     display: block;
+    width: 100%;
     cursor: pointer;
     border: 1px solid transparent;
     padding: 0.5rem;
