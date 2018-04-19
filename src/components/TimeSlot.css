@@ -11,9 +11,14 @@
 
     /**
      * TODO: Figure out how not to have a bottom border on the last time-slot
-     * which causes a double border
+     * which causes a double border -- DONE (see below)
      */
 }
+
+.time-slot:last-child {
+  border-bottom: none;
+}
+
 .time-slot__hour-label {
     width: 4rem;
     text-align: right;
