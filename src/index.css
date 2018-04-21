@@ -11,6 +11,7 @@ body {
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
 
+    background: linear-gradient(white, white, lightgrey);
     color: #212121;
     font-family: "Helvetica Neue", "Calibri Light", Roboto, sans-serif;
     letter-spacing: 0.02em;
