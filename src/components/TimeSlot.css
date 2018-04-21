@@ -42,7 +42,6 @@
     /* Override styles for larger screens here */
     .time-slot__events {
         display: flex;
-        flex-flow: row wrap;
     }
     .time-slot__event {
         flex: 1 1 0;
